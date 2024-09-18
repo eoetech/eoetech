@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on diffrent projects
-- 📫 you can reach me eoetech@yahoo.com
+- 📫 you can reach me at eronmoseleorobossa@gmail.com
 
 <!---
 eoetech/eoetech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
